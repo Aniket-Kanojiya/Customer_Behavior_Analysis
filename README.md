@@ -84,7 +84,7 @@ Status, and Shipping Type.
 
 ## 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](
+![Customer Behavior Dashboard](dashboard.png)
 **Key KPIs shown:**
 - 3.9K Total Customers
 - $59.76 Average Purchase Amount
