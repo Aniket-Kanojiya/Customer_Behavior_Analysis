@@ -171,7 +171,7 @@ mysql -u root -p < sql/business_queries.sql
 ## 👤 Author
 
 **Aniket Kanojiya**  
-📧 [your-email@example.com]  
+📧 akanojiya146@gmail.com 
 🔗 [LinkedIn Profile](www.linkedin.com/in/aniket-k-a58991368)  
 💻 [GitHub](https://github.com/Aniket-Kanojiya)
 
