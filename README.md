@@ -113,11 +113,35 @@ Status, and Shipping Type.
 - **Fix Discount Policy** — Hat, Sneakers & Coat have ~50% discount rates; switch to value-adds
 - **Promote Top-Rated Products** — Feature Gloves, Sandals, Boots in homepage and email campaigns
 - **Acquire New Customers** — Only 83 new customers found; invest in referral & social campaigns
-
-
-
 ---
 
+
+## 🗂️ Repository Structure
+```
+📁 customer-shopping-behavior-analysis/
+│
+├── 📁 dataset/
+│   └── customer_shopping_data.csv
+│
+├── 📁 python/
+│   └── data_cleaning_eda.ipynb
+│
+├── 📁 sql/
+│   └── cutomer_analysis.sql
+│
+├── 📁 powerbi/
+│   └── customer_behavior_dashboard.pbix
+│
+├── 📁 report/
+│   └── Customer_Shopping_Behavior_Report.pdf
+│
+├── 📁 presentation/
+│   └── Customer_Shopping_Behavior_PPT.pdf
+│
+└── README.md
+```
+
+---
 ## ▶️ How to Run
 
 **1. Clone the repository**
