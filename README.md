@@ -115,32 +115,7 @@ Status, and Shipping Type.
 - **Promote Top-Rated Products** — Feature Gloves, Sandals, Boots in homepage and email campaigns
 - **Acquire New Customers** — Only 83 new customers found; invest in referral & social campaigns
 
----
 
-## 🗂️ Repository Structure
-```
-📁 customer-shopping-behavior-analysis/
-│
-├── 📁 dataset/
-│   └── customer_shopping_data.csv
-│
-├── 📁 python/
-│   └── data_cleaning_eda.ipynb
-│
-├── 📁 sql/
-│   └── business_queries.sql
-│
-├── 📁 powerbi/
-│   └── customer_behavior_dashboard.pbix
-│
-├── 📁 report/
-│   └── Customer_Shopping_Behavior_Report.pdf
-│
-├── 📁 presentation/
-│   └── Customer_Shopping_Behavior_PPT.pdf
-│
-└── README.md
-```
 
 ---
 
@@ -172,7 +147,7 @@ mysql -u root -p < sql/business_queries.sql
 
 **Aniket Kanojiya**  
 📧 akanojiya146@gmail.com 
-🔗 [LinkedIn Profile](www.linkedin.com/in/aniket-k-a58991368)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/aniket-k-a58991368/?skipRedirect=true)  
 💻 [GitHub](https://github.com/Aniket-Kanojiya)
 
 ---
