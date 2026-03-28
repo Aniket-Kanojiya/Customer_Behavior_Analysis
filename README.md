@@ -172,8 +172,8 @@ mysql -u root -p < sql/business_queries.sql
 
 **Aniket Kanojiya**  
 📧 [your-email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)  
-💻 [GitHub](https://github.com/your-username)
+🔗 [LinkedIn Profile](www.linkedin.com/in/aniket-k-a58991368)  
+💻 [GitHub](https://github.com/Aniket-Kanojiya)
 
 ---
 
