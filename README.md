@@ -84,7 +84,8 @@ Status, and Shipping Type.
 
 ## 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](dashboard.png)
+![Customer Behavior Dashboard](<img width="1357" height="740" alt="image" src="https://github.com/user-attachments/assets/6625f653-3935-46b5-8fe4-c6c02ad571f6" />
+)
 
 **Key KPIs shown:**
 - 3.9K Total Customers
